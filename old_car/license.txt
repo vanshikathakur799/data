@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old toy car
+* source:	https://sketchfab.com/3d-models/old-toy-car-4491bc20adc545a7884254ac8eede3c9
+* author:	Alin.Sirbu (https://sketchfab.com/Alin.Sirbu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old toy car" (https://sketchfab.com/3d-models/old-toy-car-4491bc20adc545a7884254ac8eede3c9) by Alin.Sirbu (https://sketchfab.com/Alin.Sirbu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
